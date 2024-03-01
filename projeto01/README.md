@@ -1,12 +1,3 @@
-# Tecnologia para Front-End 3
+# Projeto Hello World em React
 
-Bem-vindo ao repositório de projetos da matéria de Tecnologia para Front-End 3!
-
-Este repositório contém uma coleção de projetos relacionados ao curso de Tecnologia para Front-End 3. Cada projeto representa um exercício prático ou um estudo de caso realizado durante a matéria.
-
-## Estrutura do Repositório
-
-- O diretório `projeto01/` contém o código e a documentação do Projeto 1.
-- O diretório `projeto02/` contém o código e a documentação do Projeto 2.
-- O diretório `projeto03/` contém o código e a documentação do Projeto 3.
-- ...
+Bem-vindo ao Projeto Hello World em React! Este é um projeto simples criado para a disciplina de Tecnologia para Front-end 3. O objetivo deste projeto é fornecer uma introdução básica ao desenvolvimento com React e servir como um ponto de partida para iniciantes na tecnologia.
